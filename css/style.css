@@ -1,0 +1,36 @@
+/* body {
+  min-height: 2000px;
+} */
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #c3f3f7;
+}
+
+#project {
+  background-color: #a2d9ff;
+  /* padding-top: 1rem; */
+}
+
+.card {
+  -webkit-transition: 0.4s ease;
+  transition: 0.4s ease;
+}
+
+.card:hover {
+  -webkit-transform: scale(1.08);
+  transform: scale(1.08);
+}
+
+/* #contact {
+  padding-top: 1rem;
+} */
+
+footer {
+  padding: 0.5rem;
+  background-color: #a2d9ff;
+}
+
+section {
+  padding-top: 5rem;
+}
